@@ -7,7 +7,7 @@
     }
 
     section#login{
-        width: 90vw;
+        width: 80vw;
         
         
     }
@@ -22,13 +22,13 @@
     }
     
 }
-@media screen and (min-width:902px){
+@media screen and (min-width:992px){
 
      body{
         background-image: linear-gradient(to top, #0ad6e5a3, #360258c3);
     }
     section#login{
-        width: 992px;
+        width: 950px;
 
     }
     section#login > div#imagem{

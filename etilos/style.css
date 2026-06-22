@@ -37,7 +37,7 @@ section#login > div#imagem{
     background: aqua url(../imagem/pattern.jpg) no-repeat;
     background-size: cover;
     background-position: left ;
-    height: 250px;
+    height: 220px;
 }
 section#login > div#formulario{
     display: block;
